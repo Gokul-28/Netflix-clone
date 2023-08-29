@@ -1,2 +1,2 @@
 # netflix-clone
-Front end development of the Netflix platform
+Front end development  clone version of the Netflix platform
