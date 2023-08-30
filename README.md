@@ -1,6 +1,6 @@
 # Netflix Front-end Clone Project
 
-![Netflix Clone](screenshot.png)
+link : [Simple Netflix UI](https://simplenetflixui.netlify.app/)
 
 This project is a simple front-end clone of the Netflix website, built using vanilla HTML and CSS. The purpose of this project was to practice my HTML and CSS skills by emulating the visual design and layout of the Netflix landing page.
 
